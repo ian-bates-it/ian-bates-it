@@ -1,6 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Ian, an <a href="https://linkedin.com/in/ian-bates-it">IT Professional</a></h1>
+
+<h2> Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket Prerequisites and Installation](https://github.com/ian-bates-it/osticket-prerequisites)
+  - [osTicket Post-Installation Configuration](https://github.com/ian-bates-it/osticket-post-installation-configuration)
+
+
 
 <!--
+## Hi there 👋
 **ian-bates-it/ian-bates-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

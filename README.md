@@ -2,13 +2,37 @@
 
 <h2> Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket Prerequisites and Installation](https://github.com/ian-bates-it/osticket-prerequisites)
-  - [osTicket Post-Installation Configuration](https://github.com/ian-bates-it/osticket-post-installation-configuration)
+- <b>Active Directory Home Lab</b>
+  - [Step 1: Install Virtual Machines in Azure](https://github.com/ian-bates-it/Azure-Virtual-Machine-Setup)
+  - [Step 2: Configuration Changes to Controller and Client](https://github.com/ian-bates-it/Azure-Controller-Client-Configuration)
+  - [Step 3: Install Active Directory on Windows Server 2022](https://github.com/ian-bates-it/Install-Active-Directory-on-Windows-2022-Server)
+  - [Step 4: Create Organizational Units and Users in Active Directory](https://github.com/ian-bates-it/Active-Directory-Users-And-Computers)
+
+  - [Step 5: Join a Windows 10 Pro Client To A Windows 2022 Server Domain Controller](https://github.com/ian-bates-it/Join-A-Client-To-A-Domain)
+
+<br />
+<br />
+- <b>VPN Project</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ian-bates-it/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ian-bates-it/azure-network-protocols)
+
+
+---
+<br />
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/ian-bates-it
+[instagram]: https://www.instagram.com/ian-bates-it
+[linkedin]: https://linkedin.com/in/ian-bates-it
 
 
 
 <!--
+![image](https://github.com/user-attachments/assets/c1777774-388e-41c3-b03f-47f634ee66a4)
 ## Hi there 👋
 **ian-bates-it/ian-bates-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

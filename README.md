@@ -22,6 +22,18 @@
 ---
 <br />
 <br />
+
+
+- <b>DNS Lab: Create CNAME and A-Records on A Domain Controller</b>
+  - [Create CNAME and A-Records On A Windows 2022 Server Domain Controller](https://github.com/ian-bates-it/configure-ad)
+
+
+
+---
+<br />
+<br />
+
+
 - <b>VPN Project</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ian-bates-it/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ian-bates-it/azure-network-protocols)

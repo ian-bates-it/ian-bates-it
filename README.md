@@ -34,6 +34,15 @@
 <br />
 
 
+- <b>File Shares and Permissions Lab: Create File Shares and Manage Permissions</b>
+  - [Create File Shares and Manage Permissions](https://github.com/ian-bates-it/Create-File-Shares-and-Manage-Permissions)
+
+
+---
+<br />
+<br />
+
+
 - <b>VPN Project</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ian-bates-it/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ian-bates-it/azure-network-protocols)

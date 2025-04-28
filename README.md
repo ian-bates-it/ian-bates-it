@@ -25,7 +25,7 @@
 
 
 - <b>DNS Lab: Create CNAME and A-Records on A Domain Controller</b>
-  - [Create CNAME and A-Records On A Windows 2022 Server Domain Controller](https://github.com/ian-bates-it/configure-ad)
+  - [Create CNAME and A-Records On A Windows 2022 Server Domain Controller](https://github.com/ian-bates-it/Create-CNAME-and-A-Records-On-Domain-Controller)
 
 
 

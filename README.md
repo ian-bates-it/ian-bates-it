@@ -45,7 +45,8 @@
 
 - <b>osTicket</b>
   - [osTicket Prerequisites and Installation](https://github.com/ian-bates-it/osticket-setup)
-  - [osTicket Configuration]()
+  - [osTicket Post-Installation Setup](https://github.com/ian-bates-it/osticket-post-installation-setup)
+  - [osTicket Tickets and Ticket Lifecycle](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle)
 
 
 
@@ -64,9 +65,9 @@
 <br />
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/ian-bates-it
 [instagram]: https://www.instagram.com/ian-bates-it

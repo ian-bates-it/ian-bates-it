@@ -10,10 +10,11 @@
 
   - [Step 5: Join a Windows 10 Pro Client To A Windows 2022 Server Domain Controller](https://github.com/ian-bates-it/Join-A-Client-To-A-Domain)
 
+  - [Step 6: Add Domain Users With A PowerShell Script](https://github.com/ian-bates-it/Create-Active-Directory-Users-With-PowerShell-Script)
 
 <br />
 
-- [Step 6: Add Domain Users With A PowerShell Script](https://github.com/ian-bates-it/Create-Active-Directory-Users-With-PowerShell-Script)
+
 
 <br />
 

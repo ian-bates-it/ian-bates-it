@@ -4,8 +4,11 @@
 
 - <b>Active Directory Home Lab</b>
   - [Step 1: Install Virtual Machines in Azure](https://github.com/ian-bates-it/Azure-Virtual-Machine-Setup)
+
   - [Step 2: Configuration Changes to Controller and Client](https://github.com/ian-bates-it/Azure-Controller-Client-Configuration)
+
   - [Step 3: Install Active Directory on Windows Server 2022](https://github.com/ian-bates-it/Install-Active-Directory-on-Windows-2022-Server)
+
   - [Step 4: Create Organizational Units and Users in Active Directory](https://github.com/ian-bates-it/Active-Directory-Users-And-Computers)
 
   - [Step 5: Join a Windows 10 Pro Client To A Windows 2022 Server Domain Controller](https://github.com/ian-bates-it/Join-A-Client-To-A-Domain)
@@ -46,7 +49,9 @@
 
 - <b>osTicket</b>
   - [osTicket Prerequisites and Installation](https://github.com/ian-bates-it/osticket-setup)
+    
   - [osTicket Post-Installation Setup](https://github.com/ian-bates-it/osticket-post-installation-setup)
+    
   - [osTicket Tickets and Ticket Lifecycle](https://github.com/ian-bates-it/osticket-tickets-and-lifecycle)
 
 
@@ -71,7 +76,7 @@
 [<img align="left" alt="Ian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/ian-bates-it
-[instagram]: https://www.instagram.com/ian-bates-it
+[instagram]: https://www.instagram.com/ianbatesit
 [linkedin]: https://linkedin.com/in/ian-bates-it
 
 

@@ -3,17 +3,17 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Step 1: Install Virtual Machines in Azure](https://github.com/ian-bates-it/Azure-Virtual-Machine-Setup)
+  - [Chapter 1: Install Virtual Machines in Azure](https://github.com/ian-bates-it/Azure-Virtual-Machine-Setup)
 
-  - [Step 2: Configuration Changes to Controller and Client](https://github.com/ian-bates-it/Azure-Controller-Client-Configuration)
+  - [Chapter 2: Configuration Changes to Controller and Client](https://github.com/ian-bates-it/Azure-Controller-Client-Configuration)
 
-  - [Step 3: Install Active Directory on Windows Server 2022](https://github.com/ian-bates-it/Install-Active-Directory-on-Windows-2022-Server)
+  - [Chapter 3: Install Active Directory on Windows Server 2022](https://github.com/ian-bates-it/Install-Active-Directory-on-Windows-2022-Server)
 
-  - [Step 4: Create Organizational Units and Users in Active Directory](https://github.com/ian-bates-it/Active-Directory-Users-And-Computers)
+  - [Chapter 4: Create Organizational Units and Users in Active Directory](https://github.com/ian-bates-it/Active-Directory-Users-And-Computers)
 
-  - [Step 5: Join a Windows 10 Pro Client To A Windows 2022 Server Domain Controller](https://github.com/ian-bates-it/Join-A-Client-To-A-Domain)
+  - [Chapter 5: Join a Windows 10 Pro Client To A Windows 2022 Server Domain Controller](https://github.com/ian-bates-it/Join-A-Client-To-A-Domain)
 
-  - [Step 6: Add Domain Users With A PowerShell Script](https://github.com/ian-bates-it/Create-Active-Directory-Users-With-PowerShell-Script)
+  - [Chapter 6: Add Domain Users With A PowerShell Script](https://github.com/ian-bates-it/Create-Active-Directory-Users-With-PowerShell-Script)
 
 <br />
 
@@ -75,7 +75,7 @@
 [<img align="left" alt="Ian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/ian-bates-it
+[twitter]: https://twitter.com/ianbatesit
 [instagram]: https://www.instagram.com/ianbatesit
 [linkedin]: https://linkedin.com/in/ian-bates-it
 

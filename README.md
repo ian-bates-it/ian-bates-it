@@ -2,6 +2,23 @@
 
 <h2> Information Technology Projects:</h2>
 
+
+<h3>Active Directory Home Lab</h3>
+
+  - [Chapter 1: Install Virtual Machines in Azure](https://github.com/ian-bates-it/Azure-Virtual-Machine-Setup)
+
+  - [Chapter 2: Configuration Changes to Controller and Client](https://github.com/ian-bates-it/Azure-Controller-Client-Configuration)
+
+  - [Chapter 3: Install Active Directory on Windows Server 2022](https://github.com/ian-bates-it/Install-Active-Directory-on-Windows-2022-Server)
+
+  - [Chapter 4: Create Organizational Units and Users in Active Directory](https://github.com/ian-bates-it/Active-Directory-Users-And-Computers)
+
+  - [Chapter 5: Join a Windows 10 Pro Client To A Windows 2022 Server Domain Controller](https://github.com/ian-bates-it/Join-A-Client-To-A-Domain)
+
+  - [Chapter 6: Add Domain Users With A PowerShell Script](https://github.com/ian-bates-it/Create-Active-Directory-Users-With-PowerShell-Script)
+
+
+<!--
 - <b>Active Directory Home Lab</b>
   - [Chapter 1: Install Virtual Machines in Azure](https://github.com/ian-bates-it/Azure-Virtual-Machine-Setup)
 
@@ -14,6 +31,7 @@
   - [Chapter 5: Join a Windows 10 Pro Client To A Windows 2022 Server Domain Controller](https://github.com/ian-bates-it/Join-A-Client-To-A-Domain)
 
   - [Chapter 6: Add Domain Users With A PowerShell Script](https://github.com/ian-bates-it/Create-Active-Directory-Users-With-PowerShell-Script)
+-->
 
 <br />
 
